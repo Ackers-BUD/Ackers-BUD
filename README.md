@@ -1,4 +1,4 @@
-<p align="center">
+<div align="center">
    <h3>Ackers@Bud</h3>
-</p>
+</div>
 
